@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivraj</h1>
-<h3 align="center">A Cloud & DevOps Engineer from India</h3>
+![](https://github.com/Shivraj0199/Shivraj0199/blob/main/Images/template.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivraj0199&label=Profile%20views&color=0e75b6&style=flat" alt="Shivraj0199" /> </p>
 
 | Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
